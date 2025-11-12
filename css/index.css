@@ -1,0 +1,33 @@
+body {
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 10vh;
+}
+
+#theme-switcher {
+    position: relative;
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    padding: 0.5rem 0.75rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    width: fit-content;
+}
+
+#theme-select {
+    background: transparent;
+    color: var(--text-color) !important;
+    background-color: var(--card-bg);
+    border: none;
+    outline: none;
+    font-size: 0.9rem;
+    cursor: pointer;
+}
+
+.content {
+    position: relative;
+    height: 60vh;
+    left: 0;
+    /* max-width: 500px;
+    margin: auto; */
+}

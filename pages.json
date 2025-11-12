@@ -1,0 +1,32 @@
+{
+    "pages": [
+        {
+            "name": "Home",
+            "file": "html/home.html",
+            "css": "css/home.css",
+            "js": "",
+            "active": true
+        },
+        {
+            "name": "About",
+            "file": "html/about.html",
+            "css": "css/about.css",
+            "js": "js/about.js",
+            "active": true
+        },
+        {
+            "name": "Activities",
+            "file": "projects.html",
+            "css": "",
+            "js": "",
+            "active": true
+        },
+        {
+            "name": "Contact",
+            "file": "contact.html",
+            "css": "",
+            "js": "",
+            "active": true
+        }
+    ]
+}

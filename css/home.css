@@ -1,0 +1,33 @@
+/* Container */
+.content {
+  text-align: center;
+  line-height: 1.6;
+  padding: 2rem;
+}
+
+/* Heading */
+.content h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  margin-bottom: 1rem;
+  color: var(--text-color);
+}
+
+/* Paragraph */
+.content p {
+  font-size: 1.1rem;
+  max-width: 600px;
+  margin: 0 auto;
+  color: var(--text-color);
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .content h1 {
+    font-size: 2rem;
+  }
+  .content p {
+    font-size: 1rem;
+  }
+}
