@@ -16,7 +16,7 @@
         },
         {
             "name": "Projects",
-            "file": "projects.html",
+            "file": "html/projects.html",
             "css": "",
             "js": "",
             "active": true
