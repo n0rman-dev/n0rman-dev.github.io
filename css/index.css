@@ -2,6 +2,8 @@ body {
     max-width: 1000px;
     margin: auto;
     margin-top: 10vh;
+    padding-left: 5vw;
+    padding-right: 5vw;
 }
 
 #theme-switcher {
