@@ -55,6 +55,10 @@ a {
   transition: color 0.3s ease;
 }
 
+.dark-icon path{
+    fill: var(--text-color);
+}
+
 /* Scrollbar CSS */
 /* 🖌 Global Theme-Aware Scrollbar */
 

@@ -3,7 +3,7 @@
         {
             "name": "Home",
             "file": "html/home.html",
-            "css": "css/home.css",
+            "css": "",
             "js": "",
             "active": true
         },
