@@ -11,7 +11,7 @@
             "name": "About",
             "file": "html/about.html",
             "css": "css/about.css",
-            "js": "js/about.js",
+            "js": "",
             "active": true
         },
         {

@@ -30,6 +30,10 @@ body {
     position: relative;
     height: 60vh;
     left: 0;
-    /* max-width: 500px;
-    margin: auto; */
+    overflow-y: auto;
+    /* ✅ enables vertical scroll when content overflows */
+    overflow-x: hidden;
+    /* optional — prevents horizontal scrollbars */
+    scroll-behavior: smooth;
+    /* optional — adds smooth scroll effect */
 }
