@@ -40,7 +40,7 @@ function loadContent(page) {
 
   const $content = $('.content');
 
-  $content.css('left', '-300px');
+  $content.stop(true, true).css('left', '-300px');
 
   // Load HTML content
   $content.hide().load(page.file, function (response, status) {
